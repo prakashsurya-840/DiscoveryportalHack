@@ -1,2 +1,0 @@
-# DiscoveryportalHack
-Created with CodeSandbox
